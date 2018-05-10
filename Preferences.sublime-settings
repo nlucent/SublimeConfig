@@ -1,0 +1,42 @@
+{
+	"always_prompt_for_file_reload": false,
+	"always_show_minimap_viewport": true,
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/NL Monokai Soda (SL).tmTheme",
+	"copy_with_empty_selection": true,
+	"default_line_ending": "unix",
+	"drag_text": false,
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"font_face": "Anonymous Pro",
+	"font_size": 9,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"indent_to_bracket": true,
+	"indentation_guide_options": "draw_normal",
+	"line_padding_bottom": 2,
+	"line_padding_top": 1,
+	"match_bracket_contents": false,
+	"rulers":
+	[
+		80
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"soda_classic_tabs": true,
+	"soda_folder_icons": true,
+	"tab_size": 4,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"use_tab_stops": true
+}
